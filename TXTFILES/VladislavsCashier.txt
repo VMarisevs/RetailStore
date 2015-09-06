@@ -1,0 +1,8 @@
+		Cashier's salary calculation
+	Name				 Vladislavs
+	Surname				 Cashier
+	Hours per week			 40.50
+	Standard fee per hour	 12.00
+	Overtime hours			 0.50
+	Overtime fee per hour	 18.00
+	Salary per Week		 489.00

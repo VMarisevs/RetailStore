@@ -1,0 +1,8 @@
+		Cashier's salary calculation
+	Name				 Alisa
+	Surname				 Cash
+	Hours per week			 45.00
+	Standard fee per hour	 10.00
+	Overtime hours			 5.00
+	Overtime fee per hour	 15.00
+	Salary per Week		 475.00

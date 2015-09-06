@@ -1,0 +1,8 @@
+		Salesperson's salary calculation
+	Name				 Anna
+	Surname				 Walsh
+	Commission percent		 20
+	Per item sold			 100.00
+	Minimal wage			 200.00
+	Commission in euro		 20.00
+	Salary per Week		 220.00

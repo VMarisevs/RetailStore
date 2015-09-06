@@ -1,0 +1,7 @@
+		Manager's salary calculation
+	Name				 Vladislavs
+	Surname				 Manager
+	Years employed			 13
+	Standard Salary			 30000.00
+	Salary per Year			 56000.00
+	Salary per Week		 1076.92

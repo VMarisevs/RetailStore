@@ -1,0 +1,8 @@
+		Salesperson's salary calculation
+	Name				 Vladislavs
+	Surname				 Salesperson
+	Commission percent		 20
+	Per item sold			 1000.00
+	Minimal wage			 200.00
+	Commission in euro		 200.00
+	Salary per Week		 400.00

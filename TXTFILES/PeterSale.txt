@@ -1,0 +1,8 @@
+		Salesperson's salary calculation
+	Name				 Peter
+	Surname				 Sale
+	Commission percent		 50
+	Per item sold			 400.00
+	Minimal wage			 100.00
+	Commission in euro		 200.00
+	Salary per Week		 300.00
